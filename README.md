@@ -34,9 +34,6 @@ I am a college student at the University of Iowa studying computer science and e
 ![](https://github-readme-streak-stats.herokuapp.com/?user=teckenrod&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teckenrod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=teckenrod&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 ---
 
 # A few Interests and Hobies
