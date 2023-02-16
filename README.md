@@ -54,9 +54,11 @@ I am a college student at the University of Iowa studying computer science and e
 [<img align="left" alt="trey_eckenrod | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="trey_eckenrod | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="treyeck2 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="treyeck2 | LeetCode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/leetcode.svg" />][leetcode]
 
 <br/>
 
 [twitter]: https://twitter.com/trey_eckenrod
 [instagram]: https://www.instagram.com/treyeck2/
 [linkedin]: https://www.linkedin.com/in/trey-eckenrod/
+[leetcode]: https://leetcode.com/treyeck2/
