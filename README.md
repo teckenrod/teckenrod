@@ -15,7 +15,7 @@ I am a college student at the University of Iowa studying computer science and e
 
 ### Other Languages and Tools I Have Experience With
 
-<img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"> <img src="https://img.shields.io/badge/-x86_Assembly-2CA5E0?style=for-the-badge"> <img src="https://img.shields.io/badge/-Verilog-787878?style=for-the-badge"> <img src="https://img.shields.io/badge/-LTspice-00979D?style=for-the-badge"> <img src="https://img.shields.io/badge/-Agda-239120?style=for-the-badge"> <img src="https://img.shields.io/badge/-MATLAB-F7931E?style=for-the-badge"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
+<img src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"> <img src="https://img.shields.io/badge/-x86/AVR_Assembly-2CA5E0?style=for-the-badge"> <img src="https://img.shields.io/badge/-Verilog-787878?style=for-the-badge"> <img src="https://img.shields.io/badge/-LTspice-00979D?style=for-the-badge"> <img src="https://img.shields.io/badge/-Agda-239120?style=for-the-badge"> <img src="https://img.shields.io/badge/-MATLAB-F7931E?style=for-the-badge"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white">
 
 ### Learning Now
 
