@@ -5,8 +5,6 @@
 # About Me
 I am a college student at the University of Iowa studying computer science and engineering. I will be graduating in 2024 in hopes of pursuing a career in software development. I prefer back-end development at the moment but hope to try out a few more front-end technologies before the year is done. 
 
-![Profile views](https://gpvc.arturio.dev/teckenrod)  <img src="https://img.shields.io/github/followers/teckenrod?label=Followers" style=" float:left, margin-right:10px" />
-
 ---
 
 ### Tech & Tools Preference
