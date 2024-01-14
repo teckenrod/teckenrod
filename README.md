@@ -28,8 +28,6 @@ I am a college student at the University of Iowa studying computer science and e
 
 ---
 
-![](https://github-readme-stats.vercel.app/api?username=teckenrod&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=teckenrod&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teckenrod&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
