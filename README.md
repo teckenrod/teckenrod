@@ -22,12 +22,6 @@ I am a college student at the University of Iowa studying computer science and e
 
 <img src="https://img.shields.io/badge/-MATLAB-F7931E?style=for-the-badge"> <img src="https://img.shields.io/badge/-LTspice-00979D?style=for-the-badge"> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"> <img src="https://img.shields.io/badge/VS_Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white">
 
-### Learning Now
-- Django
-- Python pre-commit hooks
-- Git Actions
-
-
 ### Like to Learn
 
 - Kotlin 
